@@ -19,6 +19,7 @@ public class MyApplication {
         SpringApplication.run(MyApplication.class,args);
 
         System.out.println("11111MMMM");
+        System.out.println("11111DDD");
 
     }
 }
